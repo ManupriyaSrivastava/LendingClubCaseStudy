@@ -23,7 +23,7 @@ Perform an analysis to understand the driving factors (or driver variables)
 behind loan default, i.e.the variables which are strong indicators of default.  
 The company can utilise this knowledge for its portfolio and risk assessment. 
 
-```
+
 
 ### Step 1: Data Cleaning
 ### Step 2: Data Standardisation
@@ -34,7 +34,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Conclusions
-- The conclusions and observations are capture in the pdf in the github repository
+- The conclusions and observations are captured in the pdf in the github repository
 
 
 ## Acknowledgements
